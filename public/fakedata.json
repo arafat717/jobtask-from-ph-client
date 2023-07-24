@@ -1,0 +1,118 @@
+{
+  "colleges": [
+    {
+      "name": "Elmwood University",
+      "reviews": [
+        {
+          "id": 1,
+          "title": "Highly Recommended!",
+          "date": "August 12, 2023",
+          "content": "Elmwood University offers a diverse range of programs and has a supportive faculty. The campus environment is conducive to learning and personal growth.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "title": "Great Campus Facilities",
+          "date": "July 22, 2023",
+          "content": "The campus facilities at Elmwood University are excellent. The library, labs, and recreational areas are well-maintained.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Cedarwood College",
+      "reviews": [
+        {
+          "id": 1,
+          "title": "Good College for Arts",
+          "date": "August 15, 2023",
+          "content": "Cedarwood College is a good choice for students interested in arts and humanities. The art studio and theater department are fantastic.",
+          "rating": 4
+        },
+        {
+          "id": 2,
+          "title": "Friendly Professors",
+          "date": "July 27, 2023",
+          "content": "The professors at Cedarwood College are friendly and approachable. They are always willing to help students understand the subject matter.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Maplebrook Polytechnic",
+      "reviews": [
+        {
+          "id": 1,
+          "title": "Best Technical Institute",
+          "date": "August 18, 2023",
+          "content": "Maplebrook Polytechnic is one of the best technical institutes around. The hands-on training and industry connections are commendable.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "title": "Modern Infrastructure",
+          "date": "July 29, 2023",
+          "content": "The campus infrastructure at Maplebrook Polytechnic is modern and equipped with state-of-the-art technology.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Birchwood Academy",
+      "reviews": [
+        {
+          "id": 1,
+          "title": "A Haven for Research",
+          "date": "August 20, 2023",
+          "content": "Birchwood Academy provides a supportive environment for research enthusiasts. The research opportunities are vast and enriching.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "title": "Effective Career Services",
+          "date": "July 31, 2023",
+          "content": "The career services at Birchwood Academy are effective in helping students find internships and job opportunities.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "name": "Sunflower State University",
+      "reviews": [
+        {
+          "id": 1,
+          "title": "Diverse Student Body",
+          "date": "August 22, 2023",
+          "content": "Sunflower State University has a diverse student body, which creates a culturally rich learning environment.",
+          "rating": 4
+        },
+        {
+          "id": 2,
+          "title": "Campus Events Galore",
+          "date": "July 24, 2023",
+          "content": "The campus events at Sunflower State University are always exciting and engaging. There's always something happening.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "name": "Rosewood College of Arts and Sciences",
+      "reviews": [
+        {
+          "id": 1,
+          "title": "Top Arts Programs",
+          "date": "August 25, 2023",
+          "content": "Rosewood College of Arts and Sciences offers top arts programs with renowned faculty and inspiring curriculum.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "title": "Supportive Learning Community",
+          "date": "July 26, 2023",
+          "content": "The learning community at Rosewood College is supportive, and the student organizations offer various opportunities for personal growth.",
+          "rating": 4
+        }
+      ]
+    }
+  ]
+}
